@@ -1,5 +1,7 @@
 package com.ravi.java.basic_coding;
-
+/*
+ * in this program print the fabonacci series 
+ */
 class Fabonacci
 {   
 	int a=0,b=1,c,n=8,i;
